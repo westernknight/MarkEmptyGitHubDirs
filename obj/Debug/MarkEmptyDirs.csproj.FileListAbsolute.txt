@@ -1,0 +1,5 @@
+D:\zhangjiajun\studio\MarkEmptyDirs\bin\Debug\MarkEmptyDirs.exe
+D:\zhangjiajun\studio\MarkEmptyDirs\bin\Debug\MarkEmptyDirs.pdb
+D:\zhangjiajun\studio\MarkEmptyDirs\obj\Debug\MarkEmptyDirs.csprojResolveAssemblyReference.cache
+D:\zhangjiajun\studio\MarkEmptyDirs\obj\Debug\MarkEmptyDirs.exe
+D:\zhangjiajun\studio\MarkEmptyDirs\obj\Debug\MarkEmptyDirs.pdb
